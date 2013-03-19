@@ -1,0 +1,1 @@
+Toying around with an garbage collector for native code. Based on: http://www.codeotaku.com/journal/2011-09/simple-garbage-collector/index
